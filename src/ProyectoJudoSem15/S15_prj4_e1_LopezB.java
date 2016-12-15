@@ -36,7 +36,6 @@ import java.util.Scanner;
  * DAW
  * @author grup1
  * @version 151220161644
- * prueba desde ubuntu.
  */
 public class S15_prj4_e1_LopezB {
 
