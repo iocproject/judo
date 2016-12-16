@@ -33,8 +33,7 @@ import java.util.Scanner;
  * de la asignatura Programación Básica ( BLOC 1 )
  * DAW
  * @author grup1
- * @version 151220161644
- * commit de prueba 16/12/2016 1938
+ * @version 151220
  */
 public class S15_prj4_e1_LopezB {
 
