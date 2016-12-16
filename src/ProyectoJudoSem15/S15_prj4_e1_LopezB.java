@@ -35,7 +35,7 @@ import java.util.Scanner;
  * @author grup1
  * @version 151220161644
  * Desde debian.
- * Desde ubuntu.
+ * 
  */
 public class S15_prj4_e1_LopezB {
 
