@@ -36,6 +36,7 @@ import java.util.Scanner;
  * @version 151220
  * Modificación desde ubuntu
  * Vuelta a modificar desde ubuntu
+ * Modificación desde debian
  */
 public class S15_prj4_e1_LopezB {
 
